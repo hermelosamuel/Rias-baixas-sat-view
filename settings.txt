@@ -1,0 +1,9 @@
+inputfile=C:\Users\samue\PycharmProjects\Practicas/Vigo\S2B_MSIL1C_20220706T113329_N0400_R080_T29TNG_20220706T122143.SAFE
+output=C:\Users\samue\PycharmProjects\Practicas/Imagenes/Vigo/S2B_MSIL1C_20220706T113329_N0400_R080_T29TNG_20220706T122143.SAFE
+EARTHDATA_u=hermelosamuel
+EARTHDATA_p=Riasatview1234
+polygon=C:\Users\samue\PycharmProjects\Practicas/mapVigo.geojson
+l2w_parameters=chl_oc3,tur_nechad2016,chl_re_bramich,bt10,bt11,chl_re_mishra,chl_re_moses3b,Rrs_*
+rgb_rhot=True
+rgb_rhos=True
+map_l2w=True

@@ -1,0 +1,10 @@
+## ACOLITE settings
+## Written at 2022-07-22 13:43:33
+limit=-8.938751220703125,42.3047373589234,-8.598175048828125,42.11401459274903
+inputfile=C:/Users/samue/PycharmProjects/Practicas/Imagenes/LC08_L1GT_204031_20220309_20220315_02_T2
+output=C:/Users/samue/PycharmProjects/Practicas/Imagenes/LC08_L1GT_204031_20210202_20210302_02_T2
+polygon=C:/Users/samue/PycharmProjects/Practicas/map.geojson
+l2w_parameters=None
+rgb_rhot=True
+rgb_rhos=True
+map_l2w=True
